@@ -1,0 +1,7 @@
+config.json
+paybooth.log
+*.exe
+build/
+dist/
+__pycache__/
+*.spec

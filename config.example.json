@@ -1,0 +1,13 @@
+{
+  "moyasar_secret_key": "",
+  "amount_halalas": 1800,
+  "currency": "SAR",
+  "description": "Muse Booth - 1 photo",
+  "success_url": "",
+  "dslrbooth_url": "http://localhost:1500",
+  "dslrbooth_password": "",
+  "dslrbooth_mode": "print",
+  "trigger_port": 8765,
+  "poll_seconds": 2,
+  "session_timeout_seconds": 300
+}
